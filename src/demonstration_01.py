@@ -9,5 +9,10 @@ Examples:
 - addition(7, 3) ➞ 10
 """
 def addition(a, b):
-    # Your code here
+    '''
+    solve = a + b
+    return solve
+    '''
+    return a + b
 
+print(addition(3, 4))
